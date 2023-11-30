@@ -1,0 +1,20 @@
+﻿{{> imports}}
+using HomeMade.Core.Interfaces;
+
+namespace {{namespace}}
+{
+{{#if comment}}
+    /// <summary>
+    {{comment}}
+    ///
+</summary>
+{{/if}}
+{{#each class-annotations}}
+{{{class-annotation}}}
+{{/each}}
+    public partial class {{class}} : IAuditProperties
+    {
+{{{> constructor}}}
+{{{> properties}}}
+    }
+}

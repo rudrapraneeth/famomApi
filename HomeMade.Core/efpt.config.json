@@ -1,0 +1,141 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "FamomContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "HomeMade.Core",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Apartment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ApartmentPromotion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ApplicationUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AvailabilityType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Chef]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DeliveryType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Image]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NotificationType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Post]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PostImage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PostSide]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Promotion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PushNotification]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuantityType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rating]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Side]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SubOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SubOrderPromotion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsageData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserApartment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserType]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "C:\\Users\\rudra\\source\\repos\\Famom.Service\\Famom\\bin\\Debug\\Famom.dacpac",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": true,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
